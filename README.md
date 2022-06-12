@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhaorenkai
-- 👀 I’m interested in python
+- 👀 I’m interested in python %java
 
 <!---
 zhaorenkai/zhaorenkai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
